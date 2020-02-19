@@ -9,7 +9,7 @@ This repository aims to provide the code used for spatial modeling of dengue (fr
 
 ## Data treatment and preparation
 
-  In order to conduct our analyses, we need to know the number of  observed and the number of  expected cases for each Brasilian municipality. To calculate the expected number of cases, it is necessary to know information about the gender and age group of the infected individual.  We extracted  from the Brazilian National Notifiable Diseases Information System (SINAN), and for each disease considered, the information related to the municipality ('codmunres'), year of notification (extracted from the date of notification variable), gender (cs_sexo') and age group ('nu_idade_n'). Additionally to the observed number of cases, we also need to collect the total population number for each of this strata.
+  In order to conduct our analyses, we need to know the number of  observed confirmed cases and the number of  expected cases for each Brasilian municipality. To calculate the expected number of cases, it is necessary to know information about the gender and age group of the infected individual.  We extracted from the Brazilian National Notifiable Diseases Information System (SINAN) the following individual information for each disease considered: the municipality ('codmunres'), year of notification (extracted from the date of notification variable), gender (cs_sexo') and age group ('nu_idade_n'). Additionally to the observed number of cases, we also need to collect the total population number for each of this strata.
 
 ### Extracting variables from SINAN database: 
   
