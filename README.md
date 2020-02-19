@@ -1,8 +1,8 @@
-# Disease mapping of dengue chikungunya and Zika transmission in Brazilian municipalities
+# Spatial analyses of dengue chikungunya and Zika transmission by Brazilian municipalities
 
 ## Objective: 
 
-This repository aims to provide the code used for spatial modeling of dengue, chikungunya and Zika. This work is separated into two steps:
+This repository aims to provide the code used for spatial modeling of dengue (from 2000 up to 2017), chikungunya (from 2014 up to 2017) and Zika (from 2015 up to 2017), by Brazilian municipalities. This work is separated into two steps:
 
   1. Data treatment and preparation;
   2. Coding the algorithm to estimate the spatial relative incidence risk of each of the diseases, for each Brasilian municipality. 
