@@ -17,4 +17,4 @@ This repository aims to provide the code used for the Bayesian spatial modeling 
 
 ### Expected number of cases of dengue, chikugunya and Zika
 
-  In the file “Standard_incidence_ratio.ipynb” (present in this directory), we describe how to calculate the expected number of cases per municipality. The output csv file is used to estimate the Standard Incidence ratio using Bayesian inference techniques, that will be coded in R software. 
+  In the files “Standard_incidence_ratio.ipynb” (present in this directory), we describe how to calculate the expected number of cases per municipality. The output csv file is used to estimate the Standard Incidence ratio using Bayesian inference techniques, that will be coded in R software. 
